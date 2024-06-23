@@ -8,7 +8,7 @@ Atualmente explorando as possibilidades e potencialidades da Educação Tecnoló
     - [A Teoria Ator-Rede e o Ensino de Ciências no Brasil: uma revisão sistemática dos artigos publicados nos últimos 20 anos.](https://abrir.link/nYWOU)
 - Professora de Pensamento Computacional do Governo do Estado do Paraná.
     - [Lógica de Programação para crianças](https://scratch.mit.edu/users/Alucile/)
-    - [Lógica de Programação para adolescentes e JavaScript.](https://editor.p5js.org/amanda.dangui/sketches)
+    - [Lógica de Programação e JavaScript para adolescentes .](https://editor.p5js.org/amanda.dangui/sketches)
            
 
     
