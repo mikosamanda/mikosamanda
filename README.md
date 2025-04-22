@@ -1,7 +1,7 @@
 ## Bem vindos ao meu perfil 👩‍🔬💻⚛️📖
 
 ### Meu nome é Amanda Mikos 
-Atualmente explorando as possibilidades e potencialidades da Educação Tecnológica e de interações entre Educação Química e Educação Tecnológica . 
+Atualmente,  sou Residente do HUB de Inteligência Artificial do SENAI. E também sou professora, explorando as possibilidades e potencialidades da Educação Tecnológica e de interações entre Educação Química e Educação Tecnológica . 
 
 - Estudei Química Licenciatura na UEL
 - Mestre em Ensino de Ciencias pelo PECEM/UEL
